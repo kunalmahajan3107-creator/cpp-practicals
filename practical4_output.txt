@@ -1,0 +1,14 @@
+Name: Kunal Mahajan
+URN: E25B000062
+--------------------------------
+
+1. UNIQUE POINTER
+Student Name: Kunal
+Unique Pointer has single ownership.
+
+2. SHARED POINTER
+Student Name: Rahul
+Reference Count: 2
+Shared Pointer allows multiple ownership.
+
+Memory is automatically managed.

@@ -1,0 +1,8 @@
+Name: Kunal Mahajan
+URN: E25b000062
+--------------------------------
+
+AREA OF DIFFERENT SHAPES
+Area of Circle: 78.5
+Area of Rectangle: 50
+Area of Triangle: 30

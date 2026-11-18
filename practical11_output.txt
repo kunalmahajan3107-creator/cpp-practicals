@@ -1,0 +1,11 @@
+Name: Kunal Mahajan
+URN: E25b000062
+--------------------------------
+
+Student Records Written Successfully!
+
+STUDENT RECORDS
+RollNo,Name,Course,Marks
+101,Kunal,CSE,85
+102,Rahul,CSE,90
+103,Amit,CSE,88

@@ -1,0 +1,18 @@
+Name: Kunal Mahajan
+URN: E25b000062
+--------------------------------
+
+INTEGER STACK
+Top element: 20
+Popped element: 20
+
+FLOAT STACK
+Top element: 2.5
+Popped element: 2.5
+
+STRING STACK
+Top element: C++
+Popped element: C++
+
+EMPTY STACK CHECK
+Stack is empty. Cannot pop.

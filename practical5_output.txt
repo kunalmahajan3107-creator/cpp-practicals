@@ -1,0 +1,16 @@
+Name: Kunal Mahajan
+URN: E25b000062
+--------------------------------
+
+STUDENT DETAILS
+Name: Kunal
+Age: 20
+Student ID: 101
+Course: CSE
+
+GRADUATE STUDENT DETAILS
+Name: Rahul
+Age: 23
+Student ID: 102
+Course: MCA
+Research Topic: Artificial Intelligence

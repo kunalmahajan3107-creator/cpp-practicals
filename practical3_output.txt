@@ -1,0 +1,23 @@
+Student Name: Kunal Mahajan
+URN: E25B000062
+----------------------------
+Default Constructor Called
+Parameterized Constructor Called
+
+Original Array: 10 20 30 
+Copy Constructor Called
+Copied Array: 10 20 30 
+Default Constructor Called
+Copy Assignment Called
+Copy Assigned Array: 10 20 30 
+Move Constructor Called
+Moved Array: 10 20 30 
+Default Constructor Called
+Move Assignment Called
+Move Assigned Array: 10 20 30 
+Destructor Called
+Destructor Called
+Destructor Called
+Destructor Called
+Destructor Called
+Destructor Called

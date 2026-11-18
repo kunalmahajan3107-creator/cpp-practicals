@@ -1,0 +1,9 @@
+Name: Kunal Mahajan
+URN: E25b000062
+--------------------------------
+
+BANKING TRANSACTION
+Current Balance: 5000
+Withdrawal Successful!
+Remaining Balance: 3000
+Exception: Insufficient Balance! Transaction Failed.

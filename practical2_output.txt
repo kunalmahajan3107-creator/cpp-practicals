@@ -1,0 +1,17 @@
+Student Name: Kunal Mahajan
+URN: E25B000062
+----------------------------
+
+Account 1 Details:
+Account Number: 101
+Balance: 5000
+Amount deposited: 1000
+Amount withdrawn: 500
+
+Updated Account 1 Details:
+Account Number: 101
+Balance: 5500
+
+Account 2 Details:
+Account Number: 102
+Balance:3000

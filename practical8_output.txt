@@ -1,0 +1,9 @@
+Name: Kunal Mahajan
+URN: E25b000062
+--------------------------------
+
+SINGLETON DESIGN PATTERN
+Singleton Object Created
+Welcome to Singleton Design Pattern
+Welcome to Singleton Design Pattern
+Both objects refer to the same instance.
